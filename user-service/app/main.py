@@ -138,4 +138,4 @@ def health_check() -> dict[str, str]:
     return {
         "status": "healthy",
         "service": "user-service",
-    }
+    }# CI trigger: week08 CD pipeline demo
