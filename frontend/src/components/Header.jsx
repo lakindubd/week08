@@ -43,7 +43,7 @@ const Header = () => {
             fontWeight: 600,
           }}
         >
-          KoalaTech University
+          Laki's University
         </Typography>
 
         <Box
